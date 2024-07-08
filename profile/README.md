@@ -10,3 +10,6 @@
 
 #### 암실제작 준비 과정
 [**_Dark Room_**](https://github.com/MBV-and-Kids/.github/blob/main/profile/darkroom_production_process.md)
+
+#### 서버간 통신 과정
+[**_comunication_**](https://github.com/MBV-and-Kids/.github/blob/main/profile/communication.md)
