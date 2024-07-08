@@ -43,4 +43,4 @@
 
 ---
 
-make by [**_JKpon_**](https://github.com/orgs/MBV-and-Kids/people/LeeJeGg)
+made by [**_JKpon_**](https://github.com/orgs/MBV-and-Kids/people/LeeJeGg)
