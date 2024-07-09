@@ -34,4 +34,4 @@
 ---
 
 ## 실제 적용
---- 동영상 ---
+<iframe width="956" height="538" src="https://www.youtube.com/watch?v=YYQ4k88wH6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
