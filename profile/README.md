@@ -35,3 +35,8 @@
 
 ## 실제 적용
 [![Vidio_image](https://github.com/wooyoungwoong-AI/Skin-burn-image-multi-classification-model/assets/136695011/3936ba08-1c09-4648-b10a-e2e50434422d)](https://www.youtube.com/watch?v=YYQ4k88wH6A)
+
+---
+
+## 최종 발표
+[![image](https://github.com/user-attachments/assets/b4104c8f-4c27-40ef-9671-0fffce193dc0)](https://www.youtube.com/watch?v=ZhlHTmzE3uo)
